@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Cera Pro';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Cera Pro'),
+       url(../fonts/CeraPro-Light.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Cera Pro'),
+       url(../fonts/CeraPro-Regular.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Cera Pro'),
+       url(../fonts/CeraPro-Medium.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  font-weight: 700;
+  font-style: normal;
+  src: local(' Cer Pro'),
+       url(../fonts/CeraPro-Bold.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Cormorant'),
+       url(../fonts/Cormorant-Regular.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  font-weight: 500;
+  font-style: normal;
+  src: local('Cormorant'),
+       url(../fonts/Cormorant-Medium.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  font-weight: 600;
+  font-style: normal;
+  src: local('Proxima Nova'),
+       url(../fonts/ProximaNova-Semibold.woff2) format('woff2');
+  font-display: swap;
+}
